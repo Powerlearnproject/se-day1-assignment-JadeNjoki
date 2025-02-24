@@ -6,6 +6,7 @@ Software Engineering Day1 Assignment
 Software engineering is the systematic application of engineering principles to the development, maintenance, and testing of software systems. It involves following best practices, methodologies, and tools to create high-quality software that meets user needs while being cost-effective and reliable.
 
 **Importance in the technology industry:** Software engineering is essential because it ensures that complex software systems are developed in a structured and efficient way. Software engineering also provides the foundation for building scalable, secure, and user-friendly applications that address both business and end-user requirements.
+
 2. **Identify and describe at least three key milestones in the evolution of software engineering.**
 	1940s-1950s: Early software development: The first computers were created, but software engineering as a field did not yet exist. Early programs were written directly in machine code or assembly language, making development difficult and prone to errors.
 	1968: The NATO Software Engineering Conference: This conference introduced the term "software engineering," marking the formalization of software development practices. It laid the foundation for recognizing software engineering as a discipline.
